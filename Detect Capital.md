@@ -1,11 +1,4 @@
----
-title: "520. Detect Capital"
-date: 2021-02-19
-draft: false
-categories: ["LeetCode"]
-tags: ["Python"]
-description: "Nothing is more important than the World Cup in Football(Soccer). I made this viz to show Germany's dominance in Football."
----
+
 >Given a word, you need to judge whether the usage of capitals in it is right or not. We define the usage of capitals in a word to be right when one of the following cases holds:
 
 1. All letters in this word are capitals, like **"AMERICA".**
